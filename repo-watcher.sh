@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 repos=("Owner1/repo_name1" "Owner2/repo_name2")
 local_versions=("unlshd-062" "v1.7.4")  # Update with your local versions
